@@ -8,7 +8,7 @@ class Start
         switch (probleNr)
         {
             case 1:
-                var p = new Problem.One.Solution();
+                var p = new Problem.One.Solution1();
                 Console.WriteLine("Answer is: {0}", p.solve());
                 break;
             default:

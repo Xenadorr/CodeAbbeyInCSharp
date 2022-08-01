@@ -1,6 +1,6 @@
 namespace Problem.One {
 
-    class Solution {       
+    class Solution1 {       
         public string solve() {
             string[] tokens = Console.ReadLine()
                 .Split(' ');
