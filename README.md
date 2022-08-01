@@ -62,7 +62,7 @@ VS Code
 <!-- CONTACT -->
 ## Contact
 
-Glen Mc Lelland - [@XenadorrTV](https://twitter.com/XenadorrTV) - mc.lelland.glen@gmail.com
+Glen Mc Lelland - [@XenadorrTV](https://twitter.com/XenadorrTV) - 
 
 Project Link: [https://github.com/Xenadorr/CodeAbbeyInCSharp](https://github.com/Xenadorr/CodeAbbeyInCSharp)
 
