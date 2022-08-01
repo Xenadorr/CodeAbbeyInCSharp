@@ -1,6 +1,6 @@
-namespace Problem.Two {
-
-    class Solution {       
+namespace CodeAbbey {
+    class Problem2 : IProblem{  
+        public string ProblemURL {get {return "https://www.codeabbey.com/index/task_view/sum-in-loop";}}     
         public string solve() {
             string? amount = Console.ReadLine();
             string[] tokens = Console.ReadLine()!

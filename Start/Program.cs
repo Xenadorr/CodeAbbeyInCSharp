@@ -1,22 +1,26 @@
-﻿
+﻿using CodeAbbey;
 class Start
 {
      static void Main(string[] args)
     {
-        int problemNr = 2;
+        int problemNr = 3;
 
         switch (problemNr)
         {
             case 1:
-                var problem1 = new Problem.One.Solution();
+                var problem1 = new Problem1();
                 Console.WriteLine("Answer to problem Nr {0}: {1}", problemNr.ToString(), problem1.solve());
                 break;
             case 2:
-                var problem2 = new Problem.Two.Solution();
+                var problem2 = new Problem2();
                 Console.WriteLine("Answer to problem Nr {0}: {1}", problemNr.ToString(), problem2.solve());
                 break;
+            case 3:
+                var problem3 = new Problem3();
+                Console.WriteLine("Answer to problem Nr {0}: {1}", problemNr.ToString(), problem3.solve());
+                break;
             default:
-                System.Console.WriteLine("Please chose a problem.");
+                System.Console.WriteLine("Please chose a valid problem.");
                 break;
         }
 
