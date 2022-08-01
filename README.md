@@ -27,7 +27,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Xing][Xing-shield]][Xing-url]
 
 
 
@@ -38,10 +38,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Testprograms</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Workspace for programming practice with help of CodeAbbey.
     <br />
     <a href="https://github.com/Xenadorr/Testprograms"><strong>Explore the docs »</strong></a>
     <br />
@@ -78,9 +78,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`Xenadorr`, `Testprograms`, `XenadorrTV`, `mc.lelland.glen@gmail.com`
 
 
 ### Built With
@@ -156,7 +153,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@XenadorrTV](https://twitter.com/XenadorrTV) - mc.lelland.glen@gmail.com
+Glen Mc Lelland - [@XenadorrTV](https://twitter.com/XenadorrTV) - mc.lelland.glen@gmail.com
 
 Project Link: [https://github.com/Xenadorr/Testprograms](https://github.com/Xenadorr/Testprograms)
 
@@ -185,6 +182,6 @@ Project Link: [https://github.com/Xenadorr/Testprograms](https://github.com/Xena
 [issues-url]: https://github.com/Xenadorr/repo/issues
 [license-shield]: https://img.shields.io/github/license/Xenadorr/repo.svg?style=flat-square
 [license-url]: https://github.com/Xenadorr/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Xenadorr
+[Xing-shield]: https://camo.githubusercontent.com/c50abfc71aef128b5cdcb26cab07da4b8c896cd8d0b785302cdb6bfa449de1e2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d58696e6726636f6c6f723d303036353637266c6f676f3d58696e67266c6f676f436f6c6f723d464646464646266c6162656c3d
+[Xing-url]: https://www.xing.com/profile/Glen_McLelland2/cv
 [product-screenshot]: images/screenshot.png
