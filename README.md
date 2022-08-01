@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** Xenadorr, Testprograms, XenadorrTV, mc.lelland.glen@gmail.com
+*** Xenadorr, CodeAbbeyInCSharp, XenadorrTV, mc.lelland.glen@gmail.com
 -->
 
 
@@ -29,17 +29,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Testprograms</h3>
+  <h3 align="center">CodeAbbeyInCSharp</h3>
 
   <p align="center">
     Workspace for programming practice with help of CodeAbbey.
     <br />
-    <a href="https://github.com/Xenadorr/Testprograms/tree/main/Problems"><strong>Explore the solutions »</strong></a>
+    <a href="https://github.com/Xenadorr/CodeAbbeyInCSharp/tree/main/Problems"><strong>Explore the solutions »</strong></a>
     <br />
     <br />
     <a href="https://www.codeabbey.com/index/task_list?sort=id0">View Problems</a>
     ·
-    <a href="https://github.com/Xenadorr/Testprograms/issues">Report Bug</a>
+    <a href="https://github.com/Xenadorr/CodeAbbeyInCSharp/issues">Report Bug</a>
   </p>
 </p>
 
@@ -64,7 +64,7 @@ VS Code
 
 Glen Mc Lelland - [@XenadorrTV](https://twitter.com/XenadorrTV) - mc.lelland.glen@gmail.com
 
-Project Link: [https://github.com/Xenadorr/Testprograms](https://github.com/Xenadorr/Testprograms)
+Project Link: [https://github.com/Xenadorr/CodeAbbeyInCSharp](https://github.com/Xenadorr/CodeAbbeyInCSharp)
 
 
 
