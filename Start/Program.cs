@@ -1,11 +1,12 @@
 ﻿using CodeAbbey;
-class Start
-{
-     static void Main(string[] args)
-    {
+class Start {
+     static void Main(string[] args) {
+        Console.WriteLine("Bitte gewünschte Problem Nummer angeben.");
         int problemNr = Int32.Parse(Console.ReadLine()!);
         string answer = "Nothing";
 
+
+        Console.WriteLine("Bitte Eingabe für Problem Nr. {0} durchführen.", problemNr);
         switch (problemNr)
         {
             case 1:
